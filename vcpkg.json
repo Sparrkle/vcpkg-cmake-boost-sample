@@ -1,0 +1,10 @@
+{
+    "name": "vcpkg-cmake-boost-sample",
+    "version": "0.0.1",
+    "dependencies": [
+        {
+            "name": "boost"
+        }
+    ],
+    "builtin-baseline": "9edb1b8e590cc086563301d735cae4b6e732d2d2"
+}
